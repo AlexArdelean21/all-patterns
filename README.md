@@ -32,7 +32,7 @@ This repository contains comprehensive demonstrations, diagrams, and documentati
 | Pattern | Purpose | When to Use |
 |---------|---------|-------------|
 | [**Strategy**](./strategy/) | Define family of algorithms and make them interchangeable | Multiple algorithms, runtime algorithm selection |
-| [**Observer**](./observer/) | Define one-to-many dependency between objects | Event systems, model-view architectures |
+| [**Observer**](./observer/) | Define one-to-many dependency between objects | Event systems, model-view `architectures |
 | [**Chain of Responsibility**](./chain-of-responsibility/) | Pass requests along chain of handlers | Request processing, middleware, validation |
 | [**Template Method**](./template/) | Define skeleton of algorithm, subclasses override steps | Common algorithm structure, code reuse |
 | [**State**](./state/) | Alter object behavior when internal state changes | State machines, context-dependent behavior |
